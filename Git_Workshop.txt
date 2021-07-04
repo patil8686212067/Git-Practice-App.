@@ -1,0 +1,104 @@
+************************* **********************************
+
+GitHUB or git.
+
+    Git is version Control System software . Git is also called as SCM - Software Code Management System.
+ 
+   Git: Git is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
+
+   GitHub: GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.
+   
+   
+   Git :
+   
+   Git is a software.
+   Git is a command-line tool
+   Git is installed locally on the system.
+   Git is maintained by linux.
+   Git is focused on version control and code sharing.
+   Git is a version control system to manage source code history.
+   Git was first released in 2005.
+   
+   GitHub :
+   
+    GitHub is a service.
+	GitHub is a graphical user interface.
+	GitHub is hosted on the web.
+	GitHub is maintained by microsoft.
+	GitHub is focused on centralized source code hosting.
+	GitHub was launched in 2008.
+
+    
+	Git command line :
+	-----------------------
+	There are many different ways to use Git. Git supports many command-line tools and graphical user interfaces. The Git command line is the only place where you can run all the Git commands.
+
+	The following set of commands will help you understand how to use Git via the command line.
+
+	Basic Git Bash Commands :
+	---------------------------
+	Here is a list of most essential Git commands that are used daily.
+	
+	Git help command :  It provides frequently used git commands.
+	
+	cmd> git help
+	cmd> git help <command Name>
+	
+    It Opens the documentation of particular command.
+	
+	Git Status command : This Command will display the status of current repository.
+	  cmd> git status
+	  
+	  1) staged Files:
+	   Files which are added and ready to commit.
+	   this file name will be displayed in green color.
+	   
+	   2)Un-Staged Files :
+	   Modified files will be displayed here, we need to stage this files to commit.
+	   this file name will be displayed in red color.
+	   
+	   3)Un-tracked Files :
+	   Newely Created Files ,we need to stage them to commit.
+	   	this file name  also will be displayed in red color.
+		
+	Git add command : This command is used add file to staging area.
+   cmd>git add <fileName>	
+   cmd>git add --a	
+   To add multiple at once.
+   
+   Git Remove Coomand : 
+   
+   syntax : git --rm cached <filename>
+   
+   This command is used to untracked files.
+   
+   
+
+	Git Config command : This command configures the user.
+	This command sets the author name and email address to be used with your commits.
+	
+    git config --global user.name "patil121"  
+    git config --global user.email "aniltechy121@gmail.com" 
+	
+	
+	Git init command : cmd>git init
+	It is used to create empty repository ot re-initialise existing repository.
+	
+	
+	Git clone command
+	Git add command
+	Git commit command
+	Git status command
+	Git push Command
+	Git pull command
+	Git Branch Command
+	Git Merge Command
+	Git log command
+	Git remote command
+	
+	
+
+
+
+
+   
